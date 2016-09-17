@@ -8,6 +8,7 @@ Compilation of guides for the students in the programming club of all levels!
   - [How Set up your IDE](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/set_up_ide.md)
   - [Tabs vs Spaces](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/tabs_vs_spaces.md)
   - [How to use Git/GitHub](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
+  - [The Command Line](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/command_line.md)
 
 # Contributing
 Anyone and everyone is welcome to add guides or update existing ones! Please keep guides clear and concise. Please name files and folders in lowercase with underscores (no camel case, no spaces and no hyphens). Overall, please just follow the conventions of the rest of the project, including format of content.
