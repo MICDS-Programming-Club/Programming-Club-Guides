@@ -5,6 +5,7 @@ Compilation of guides for the students in the programming club of all levels!
 - [Introduction](https://github.com/michaelgira23/Programming-Club-Guides/tree/master/introduction)
   - [Resources to Learn](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/learning_resources.md)
   - [How Set up your IDE](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/set_up_ide.md)
+  - [Tabs vs Spaces](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/tabs_vs_spaces.md)
   - [How to use Git/GitHub](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
 
 # Contributing
