@@ -17,7 +17,7 @@ In order to remain unbiased on why **tabs are better than spaces in every single
 
 ### Why do some people think it's okay to sin?
 - Some people prefer to indent with spaces so "the code looks the same no matter your computer or IDE".
-  - **This is false.** When using tabs, developers configure how many spaces they want a tab to take up. You cannot do this with spaces. Developers should be able to change the indentation width of their code of their preference, similar to how they can change the font size of the code of their preference.
+  - **This is false.** When using tabs, developers configure how many characters a tab should take up. You cannot do this with spaces. Developers should be able to change the indentation width of their code to whatever they like, similar to how they can change the font size of the code to whatever they like.
 - Some people prefer to indent with spaces so "their code can stay aligned".
   - **This is false.** If you need to use tabs to align code, then you are doing it wrong. **Use spaces for alignment, and tabs for indenting lines.**
 
