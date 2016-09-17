@@ -27,6 +27,8 @@ The Angular University is a great resource for learning Angular 2. It has simple
   3. 
   
 
+## Other Learning Resources / Online Courses
+
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
 - [Program Design](#program-design)
