@@ -25,26 +25,39 @@ JavaScript makes a webpage interactive. You can create animations and do lots of
 There are many back-end languages out there, but you only need to know one to build a website. Each language has their own advantages and disadvantages.
 
 #### node.js
-Node.js is actually JavaScript, but running on the back-end. If you know JavaScript, you already know the syntax of node.js. You just need to learn a few extra stuff to make node.js interact with things. You can learn node.js by taking the following courses:
+Node.js is actually JavaScript, but running on the back-end. If you know JavaScript, you already know the syntax of node.js. You just need to learn a few extra stuff to make node.js interact with things.
+
+You take the following Treehouse courses:
+
 1. [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics)
 2. [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
 3. [npm Basics](https://teamtreehouse.com/library/npm-basics)
 4. [Build a REST API With Express](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
 #### PHP
-PHP is a bit older language. It has its quirks, but it's still decent for making a website. There are both courses on Codecademy and Treehouse, so you can take whatever you prefer.
+PHP is a bit older language. It has its quirks, but it's still decent for making a website.
+
+You can take the following Codecademy course:
+
 [Codecademy PHP Course](https://www.codecademy.com/lrn/php)
-Or Treehouse Courses:
+
+You can also take the following Treehouse courses:
+
 1. [PHP Basics](https://teamtreehouse.com/library/php-basics-2)
 2. [Build a Basic PHP Website](https://teamtreehouse.com/library/build-a-basic-php-website)
 
 #### Ruby / Ruby on Rails
 Ruby is a general programming language. The 'Ruby on Rails' framework allows for you to run a webserver using the Ruby language.
-You can learn on Treehouse:
+
+You can take the following Treehouse courses:
+
 1. [Ruby Basics](https://teamtreehouse.com/library/ruby-basics)
 2. [Ruby on Rails Basics](https://teamtreehouse.com/library/ruby-on-rails-5-basics)
 
 #### Python / Django
-Python is another general programming language. The Django framework allows for you to run a webserver using Python. You can take the following Treehouse courses:
+Python is another general programming language. The Django framework allows for you to run a webserver using Python.
+
+You can take the following Treehouse courses:
+
 1. [Python Basics](https://teamtreehouse.com/library/python-basics)
 2. [Django Basics](https://teamtreehouse.com/library/django-basics)
