@@ -24,7 +24,11 @@ The Angular University is a great resource for learning Angular 2. It has simple
 - Treehouse Courses
   1. [Git Basics](https://teamtreehouse.com/library/git-basics)
   2. [GitHub Basics](https://teamtreehouse.com/library/github-basics)
-  3. 
+- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
+- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+- [Git Immersion](http://gitimmersion.com/index.html)
+- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
   
 
 ## Other Learning Resources / Online Courses
