@@ -1,6 +1,9 @@
 # Tabs vs Spaces
 When writing source code, developers indent different clauses of their program to form a hierarchy in order to make it more readable. A holy war has been fought for eons over the which character to use when indenting code: tabs or spaces? **A common misconception is that you should use spaces to indent. This is a false statement.** Here is a diagram below visually showing the differences between tabs and spaces.
 
+[![Spaces vs Tabs](https://i.ytimg.com/vi/SsoOG6ZeyUI/maxresdefault.jpg)](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
+
+
 Each dot represents a space, while each arrow represents a tab.
 ![Tab vs Spaces Diagram](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/media/tabs_vs_spaces.png)
 As you can see, **spaces are a waste of disk space** as it takes 2-4 space characters to indent, while it only takes 1 tab character to indent.
