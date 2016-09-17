@@ -15,3 +15,12 @@ Treehouse is another great website. It offers a bigger selection than Codecademy
 
 ## [Angular University](https://angular-university.io/)
 The Angular University is a great resource for learning Angular 2. It has simple to-the-point videos that are only a few minutes long each. While there are some videos that are free, **you must pay in order to access the full library of videos. Contact Michael Gira to get the credentials to a paid group Angular University account.**
+
+## Git and GitHub
+[Please reference this guide to learn what Git and GitHub is.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
+
+- [try.github.io](https://try.github.io)
+- [Codecademy](https://www.codecademy.com/learn/learn-git)
+- Treehouse Courses
+  1. [Git Basics](https://teamtreehouse.com/library/git-basics)
+  2. [GitHub Basics](https://teamtreehouse.com/library/github-basics)

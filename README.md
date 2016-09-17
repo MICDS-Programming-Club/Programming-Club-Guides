@@ -3,6 +3,7 @@ Compilation of guides for the students in the programming club of all levels!
 
 # Table of Contents
 - [Introduction](https://github.com/michaelgira23/Programming-Club-Guides/tree/master/introduction)
+  - [I Have Absolutely No Idea What I'm Doing](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/i_have_no_idea_what_im_doing_help.md)
   - [Resources to Learn](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/learning_resources.md)
   - [How Set up your IDE](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/set_up_ide.md)
   - [Tabs vs Spaces](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/tabs_vs_spaces.md)
