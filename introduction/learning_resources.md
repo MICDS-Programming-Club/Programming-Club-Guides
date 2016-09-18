@@ -10,6 +10,9 @@ Codecademy is a great plat to start. It offers a variety of courses based off of
 ### [Treehouse](https://teamtreehouse.com/home)
 Treehouse is another great website. It offers a bigger selection than Codecademy, and goes a lot more in-depth in some topics. Courses are made up of a collection of short videos. Every few videos, you take a quiz or a coding challenge! **This is NOT a free resource, but you can contact Michael Gira to get the credentials to a paid group Treehouse account.**
 
+### [Learn X in Y minutes](https://learnxinyminutes.com/)
+A great resource for people already experienced with programming to pick up another language. This site offers over 100 text-based tutorials that will teach you the basics and provide links to continue your learning!
+
 ## Angular 2
 [Angular is a JavaScript library](https://angular.io/) used to build powerful single-page applications. It can also be used for other platforms, such as the [Ionic framework](http://ionicframework.com/) to build mobile apps!
 
