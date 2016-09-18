@@ -16,6 +16,7 @@ Treehouse is another great website. It offers a bigger selection than Codecademy
 ## [Angular University](https://angular-university.io/)
 The Angular University is a great resource for learning Angular 2. It has simple to-the-point videos that are only a few minutes long each. While there are some videos that are free, **you must pay in order to access the full library of videos. Contact Michael Gira to get the credentials to a paid group Angular University account.**
 
+## [Awesome](https://github.com/sindresorhus/awesome) Angular 2
 Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
 ## Git and GitHub
@@ -32,6 +33,7 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
   
+## [Udacity](https://www.udacity.com/)
 Bring accessible, affordable, engaging, and highly effective higher education to the world.
 
 ## Other Learning Resources / Online Courses
