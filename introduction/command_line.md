@@ -72,7 +72,10 @@ Programming-Club
 windows-cmd-line-is-cool.txt		 
 ```
 
-**More stuff to come!**
+### Learning Windows CMD
+- [Command-line reference A-Z](https://technet.microsoft.com/en-us/library/bb490890.aspx)
+- [Windows Command Prompt in 15 Minutes](http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
+- [Command Line List and Reference](http://commandwindows.com/command3.htm)
 
 ## Bash Command Line
 The Bash command line is the most commonly used command line within programming and computers in general. Most servers run a [Linux](https://www.linux.com/what-is-linux) distribution of some sort, usually [Ubuntu](http://www.ubuntu.com/), which all use Bash.
@@ -90,6 +93,18 @@ $ echo $TEST
 i love programming club
 ```
 
+#### Quotes
+In Bash, the type of quotes you use when creating strings matters. `'`Single quotes`'` do nothing special, but `"`double quotes`"` do variable interpolation (putting the variable contents in the string).
+
+For example:  
+```
+$ VARIABLE="extra content"
+$ echo 'test string with $VARIABLE'
+test string with $VARIABLE
+$ echo "test string with $VARIABLE"
+test string with extra content
+```
+
 #### Directory Listings
 In Bash, to list the contents of the current directory, use the `ls` command. However, this does not contain hidden files/folders (which are prefixed with a `.`period). To show those, add the `-a` flag to the command.
 
@@ -101,4 +116,7 @@ $ ls -a
 . 	.. 	 Programming-Club 	 .hiddenfile 	bash-cmd-line-is-cool.txt
 ```
 
-**More stuff to come!**
+### Learning Bash
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
