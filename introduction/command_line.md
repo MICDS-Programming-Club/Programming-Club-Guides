@@ -85,7 +85,7 @@ However, as opposed to Windows, strings must be contained within `'`quotes`'`. (
 
 For example:  
 ```
-$ TEST="i love programming club"
+$ TEST='i love programming club'
 $ echo $TEST
 i love programming club
 ```
