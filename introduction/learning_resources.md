@@ -13,14 +13,14 @@ Treehouse is another great website. It offers a bigger selection than Codecademy
 ## Angular 2
 [Angular is a JavaScript library](https://angular.io/) used to build powerful single-page applications. It can also be used for other platforms, such as the [Ionic framework](http://ionicframework.com/) to build mobile apps!
 
-## [Angular University](https://angular-university.io/)
+### [Angular University](https://angular-university.io/)
 The Angular University is a great resource for learning Angular 2. It has simple to-the-point videos that are only a few minutes long each. While there are some videos that are free, **you must pay in order to access the full library of videos. Contact Michael Gira to get the credentials to a paid group Angular University account.**
+
+### [Awesome](https://github.com/AngularClass/awesome-angular2) Angular 2
+Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
 ## [Awesome](https://github.com/sindresorhus/awesome) Lists
 Lists of Awsome topics and resources. For each topic there are many resources that are picked out to be the most useful. 
-
-## [Awesome](https://github.com/sindresorhus/awesome) Angular 2
-Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
 ## Git and GitHub
 [Please reference this guide to learn what Git and GitHub is.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
