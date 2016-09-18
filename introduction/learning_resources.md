@@ -38,6 +38,7 @@ Lists of Awsome topics and resources. For each topic there are many resources th
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [Git Branching](http://learngitbranching.js.org/)
   
 ## [Udacity](https://www.udacity.com/)
 Bring accessible, affordable, engaging, and highly effective higher education to the world.
