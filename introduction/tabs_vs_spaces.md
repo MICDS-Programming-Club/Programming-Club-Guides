@@ -14,7 +14,7 @@ In order to remain unbiased on why **tabs are better than spaces in every single
 ### Why should I use tabs?
 - The tab character was specifically developed for indentation.
 - You are able to configure how many characters a tab takes up, depending on your preference (typically 2 or 4 characters).
-- All the cool kids are doing in.
+- All the cool kids are doing it.
 
 ### Why should I use spaces?
 
