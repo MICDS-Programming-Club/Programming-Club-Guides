@@ -7,7 +7,7 @@ Generally, the command line is just a prompt that you type *commands* into, and 
 However, the syntax of these commands vary from operating system to operating system. In this guide we will be covering the two most-used ones: Windows and Bash (Unix/Linux).
 
 ### What are these dollar signs?
-Generally, dollar signs are used to represent an interactive prompt. You'll see these in command examples just about everywhere.
+Generally, dollar signs are used to represent an interactive prompt. You'll see these in command examples just about everywhere. However, do note that these are **not part of the actual commands**.
 
 For example:  
 ```
@@ -83,8 +83,8 @@ The Bash command line is the most commonly used command line within programming 
 ### Basic Syntax
 
 #### Variables
-In Bash, variables have no explicit definition command. They are called with a `$`dollar sign in front of them.  
-However, as opposed to Windows, strings must be contained within `'`quotes`'`. (Double quotes have a special meaning in Bash. We'll get to that!)
+In Bash, variables have no explicit definition command. They are called with a `$dollar` sign in front of them.  
+However, as opposed to Windows, strings must be contained within `'quotes'`. (Double quotes have a special meaning in Bash. We'll get to that!)
 
 For example:  
 ```
@@ -94,7 +94,7 @@ i love programming club
 ```
 
 #### Quotes
-In Bash, the type of quotes you use when creating strings matters. `'`Single quotes`'` do nothing special, but `"`double quotes`"` do variable interpolation (putting the variable contents in the string).
+In Bash, the type of quotes you use when creating strings matters. `'Single quotes'` do nothing special, but `"double quotes"` do variable interpolation (putting the variable contents in the string).
 
 For example:  
 ```
@@ -106,7 +106,7 @@ test string with extra content
 ```
 
 #### Directory Listings
-In Bash, to list the contents of the current directory, use the `ls` command. However, this does not contain hidden files/folders (which are prefixed with a `.`period). To show those, add the `-a` flag to the command.
+In Bash, to list the contents of the current directory, use the `ls` command. However, this does not contain hidden files/folders (which are prefixed with a `.period`). To show those, add the `-a` flag to the command.
 
 For example:  
 ```
