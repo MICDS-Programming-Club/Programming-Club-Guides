@@ -25,6 +25,11 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 ## [Awesome](https://github.com/sindresorhus/awesome) Lists
 Lists of Awsome topics and resources. For each topic there are many resources that are picked out to be the most useful. 
 
+## Reddit
+[r/learnprogramming](https://www.reddit.com/r/learnprogramming/) has a ton of nice people willing to answer questions and give free learning resources. 
+
+#### Interactions on reddit can be NSFW! 
+
 ## Git and GitHub
 [Please reference this guide to learn what Git and GitHub is.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
 
