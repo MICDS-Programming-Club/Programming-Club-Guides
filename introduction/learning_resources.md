@@ -25,6 +25,15 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 ## [Awesome](https://github.com/sindresorhus/awesome) Lists
 Lists of Awsome topics and resources. For each topic there are many resources that are picked out to be the most useful. 
 
+## Reddit
+[r/learnprogramming](https://www.reddit.com/r/learnprogramming/) has a ton of nice people willing to answer questions and give free learning resources. There are many other programming related subreddits, like [r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/), but there are so many subreddits dedicated to programming, they're not all worth listing. 
+
+#### Interactions on reddit can be NSFW! You've been warned!!!
+
+## Youtube
+There are almost infinite amounts of Youtube channels dedicated to various programming topics. Just search for tutorials. 
+Crash Course, while known for other things has a [computer science course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) dedicated to how computers work. 
+
 ## Git and GitHub
 [Please reference this guide to learn what Git and GitHub is.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
 
@@ -276,3 +285,8 @@ The following platforms currently offer specializations:
 #### Coursera: [Specializations](https://www.coursera.org/specializations)
 #### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
 #### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
+
+## More resource lists!
+Just like a good piece of software, this tutorial must be dependent on other lists. 
+
+- [Delevoper-Y videos](https://github.com/Developer-Y/cs-video-courses)

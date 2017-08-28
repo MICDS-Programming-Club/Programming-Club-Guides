@@ -61,3 +61,9 @@ You can take the following Treehouse courses:
 
 1. [Python Basics](https://teamtreehouse.com/library/python-basics)
 2. [Django Basics](https://teamtreehouse.com/library/django-basics)
+
+## Create a Github account
+Now that you have chosen a language, creating  Github account is the next step, while a student at MICDS, or a student anywhere, you can apply for a Student discount on Github, which gives you a ton of extra perks on Github. To apply for a student discount go [here](https://education.github.com/pack).
+
+### What is Github?
+Github is essentially Google Drive for programmers, once you learn how to use it, it makes your life a thousand times easier. If you want to learn more check out the [Github tutorial](https://github.com/MICDS-Programming-Club/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md). 
