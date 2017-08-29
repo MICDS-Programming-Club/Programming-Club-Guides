@@ -291,7 +291,7 @@ The following platforms currently offer specializations:
 ## More resources and resource lists!
 Just like a good piece of software, this tutorial must be dependent on other lists. 
 
-- [Delevoper-Y videos](https://github.com/Developer-Y/cs-video-courses)
+- [Developer-Y videos](https://github.com/Developer-Y/cs-video-courses)
 - [CodinGame](https://www.codingame.com/start)
 - [CodeFights](https://codefights.com/home)
 - [repl.it](https://repl.it/languages)
