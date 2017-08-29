@@ -37,6 +37,7 @@ Crash Course, while known for other things has a [computer science course](https
 ## Git and GitHub
 [Please reference this guide to learn what Git and GitHub is.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
 
+
 - [try.github.io](https://try.github.io)
 - [Codecademy](https://www.codecademy.com/learn/learn-git)
 - Treehouse Courses
@@ -277,7 +278,7 @@ Courses | Duration | Effort
 
 ### Specializations
 
-After finishing the courses above, start your specializations on the topics that you have more interest.
+After finishing the courses above, start your specializations on the topics that you have more interest. Such as "Do I want to do Game development, software development, mobile app development, or white hat hacking?" 
 
 The following platforms currently offer specializations:
 
@@ -285,8 +286,18 @@ The following platforms currently offer specializations:
 #### Coursera: [Specializations](https://www.coursera.org/specializations)
 #### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
 #### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
+#### Pluralsight: [Careers](https://www.pluralsight.com/browse/business-professional/careers)
 
-## More resource lists!
+## More resources and resource lists!
 Just like a good piece of software, this tutorial must be dependent on other lists. 
 
 - [Delevoper-Y videos](https://github.com/Developer-Y/cs-video-courses)
+- [CodinGame](https://www.codingame.com/start)
+- [CodeFights](https://codefights.com/home)
+- [repl.it](https://repl.it/languages)
+- [OpenProcessing](https://www.openprocessing.org/)
+- [Carnagie Mellon Videos on Theoretical Computer Science](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- [Great Article on Networking](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [Git in 20 minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c)
+- [Free Ebooks](http://www.oreilly.com/programming/free/?cmp=li-business-free-info-onboarding_li_freereport_programming_ac)
+- [University of Waterloo online courses](http://courseware.cemc.uwaterloo.ca/)
