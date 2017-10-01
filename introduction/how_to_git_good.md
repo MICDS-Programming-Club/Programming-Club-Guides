@@ -7,10 +7,10 @@ Git consists of one main 'repository' or project, and other developers can sync 
 ![Git Repository Diagram](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/media/git_repo_diagram.png)
 
 ## What is GitHub?
-[GitHub](https://github.com/) is a web-based platform that hosts Git repositories. It has all of the features of normal Git, while also adding their own. GitHub is very popular site to host Open-Source software. Other alternatives include [GitLab](https://about.gitlab.com/), [Bitbucket](https://www.atlassian.com/software/bitbucket) and [Jira](https://www.atlassian.com/software/jira).
+[GitHub](https://github.com/) is a web-based platform that hosts Git repositories. It has all of the features of normal Git, while also adding their own. GitHub is a very popular site to host Open-Source software. Other alternatives include [GitLab](https://about.gitlab.com/), [Bitbucket](https://www.atlassian.com/software/bitbucket) and [Jira](https://www.atlassian.com/software/jira).
 
 ## What is the difference between Git and GitHub?
-GitHub at its core uses Git. Git us the **version control system** while GitHub is one of many **hosting service** that hosts Git repositories.
+GitHub at its core uses Git. Git us the **version control system** while GitHub is one of many **hosting services** that hosts Git repositories.
 
 ## How to use Git/GitHub
 [Git is available as a command line utility.](https://git-scm.com/) Additionally, you can use [GitHub Desktop](https://desktop.github.com/) which is a GUI.
