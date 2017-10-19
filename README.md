@@ -10,6 +10,10 @@ Compilation of guides for the students in the programming club of all levels!
 	- [How to use Git/GitHub](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md)
 	- [The Command Line](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/command_line.md)
 
+- [Bootcamp](https://github.com/michaelgira23/Programming-Club-Guides/tree/master/bootcamp)
+	- [Learn Web Development](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/bootcamp/webdev.md)
+	- [Learn Videogame Development](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/bootcamp/gamedev.md)
+
 - [Slack Bots](https://github.com/michaelgira23/Programming-Club-Guides/tree/master/slackbots)
 	- [The Basics of Making a Slack Bot](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/slackbots/the_basics.md)
 
