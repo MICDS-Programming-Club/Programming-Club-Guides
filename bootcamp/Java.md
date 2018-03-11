@@ -17,11 +17,11 @@ Complete the [Treehouse](https://teamtreehouse.com/home) Learn Java Track, which
 While completing this track, keep notes somewhere, and store them on your computer. That way, you can go back if you forget something. 
 
 ## Download [this book](http://book.goalkicker.com/JavaBook/)
-it is a reference PDF with over 900 pages
+It is a reference PDF with over 900 pages and covers topics with code examples
 
 ## Advanced topics
 
-before we begin any advanced topics, you should complete two treehouse courses 
+Before we begin any advanced topics, you should complete these two treehouse courses:
 
 1. Java Unit Testing
 2. Dependency Management with Gradle
@@ -30,7 +30,7 @@ Now you can decide whether you want to learn Android App development first or co
 
 ## Android app development 
 
-complete the Beginning Android Development Track, which consists of:
+Complete the Beginning Android Development Track, which consists of:
 
 1. Build a Simple App with Java
 2. Getting Started with Android Emulators
@@ -44,7 +44,7 @@ Congrats, you can continue with Android App development with the Intermediate an
 
 ## Web development
 
-complete the rest of the Java Web Development Track, which consists of:
+Complete the rest of the Java Web Development Track, which consists of:
 
 1. Java Unit Testing (already completed)
 2. Dependency Management with Gradle (already completed)
