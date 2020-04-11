@@ -4,7 +4,7 @@
 Git is what's called a **version control system**, which keeps track of changes you and other people make to a certain project. Version control systems are very helpful when working in projects, and allows for everyone to sync their code with multiple people on multiple devices.
 
 Git consists of one main 'repository' or project, and other developers can sync the local repository on their machine with the main repository hosted on the web.
-![Git Repository Diagram](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/media/git_repo_diagram.png)
+![Git Repository Diagram](introduction/media/git_repo_diagram.png)
 
 ## What is GitHub?
 [GitHub](https://github.com/) is a web-based platform that hosts Git repositories. It has all of the features of normal Git, while also adding their own. GitHub is a very popular site to host Open-Source software. Other alternatives include [GitLab](https://about.gitlab.com/), [Bitbucket](https://www.atlassian.com/software/bitbucket) and [Jira](https://www.atlassian.com/software/jira).

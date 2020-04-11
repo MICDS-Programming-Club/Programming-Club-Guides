@@ -2,18 +2,18 @@
 New to programming? New to computers? What even is a computer? What even is life? This is the place to start.
 
 # Step 1: Consult Resources
-[Here is a list of learning resources that we recommend.](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/learning_resources.md) Some of these resources require a paid account, which you can contact **Nick Clifford via email (nclifford@micds.org) or Slack** to obtain the group account credentials.
+[Here is a list of learning resources that we recommend.](introduction/learning_resources.md) Some of these resources require a paid account, which you can contact **Nick Clifford via email (nclifford@micds.org) or Slack** to obtain the group account credentials.
 
 # Step 2: Which Languages should I learn?
 In the programming club, we will probably be focusing on languages such as Python, and Web Development which means languages like HTML, CSS, and JavaScript. Depending on what you want to do in the programming club, it may require you learn a specific language.
 
 
-## I want to help work on MyMICDS.net
+## **I want to help work on MyMICDS.net**
 Great! We have guides written for learning web development with working on MyMICDS in mind.
 
-If you're starting from scratch, follow the course path [here]("../road-to-mymicds/beginning.md")!
+If you're starting from scratch, follow the course path [here](../road-to-mymicds/beginning.md)!
 
-If you've had web development experience before, start [here]("../road-to-mymicds/road_to_dev.md")!
+If you've had web development experience before, start [here](../road-to-mymicds/road_to_dev.md)!
 
 
 ## I want to create a website
@@ -75,4 +75,4 @@ You can take the following Treehouse courses:
 Now that you have chosen a language, creating a Github account is the next step, while a student at MICDS, or a student anywhere, you can apply for a Student discount on Github, which gives you a ton of extra perks on Github. To apply for a student discount go [here](https://education.github.com/pack).
 
 ### What is Github?
-Github is essentially Google Drive for programmers, once you learn how to use it, it makes your life a thousand times easier. If you want to learn more check out the [Github tutorial](https://github.com/MICDS-Programming-Club/Programming-Club-Guides/blob/master/introduction/how_to_git_good.md).
+Github is essentially Google Drive for programmers, once you learn how to use it, it makes your life a thousand times easier. If you want to learn more check out the [Github tutorial](introduction/how_to_git_good.md).

@@ -5,7 +5,7 @@ When writing source code, developers indent different clauses of their program t
 
 
 Each dot represents a space, while each arrow represents a tab.
-![Tab vs Spaces Diagram](https://github.com/michaelgira23/Programming-Club-Guides/blob/master/introduction/media/tabs_vs_spaces.png)
+![Tab vs Spaces Diagram](introduction/media/tabs_vs_spaces.png)
 As you can see, **spaces are a waste of disk space** as it takes 2-4 space characters to indent, while it only takes 1 tab character to indent.
 
 ## An objective analysis on both sides of the debate
@@ -28,7 +28,7 @@ In order to remain unbiased on why **tabs are better than spaces in every single
 Even though you are pressing the 'tab' key in order to indent your code, you might not necessarily be using tabs over spaces. Most IDE's allow you to insert x amount of spaces when you press the tab key. In order to make sure you are inserting a tab character instead of 2 or 4 spaces, look in the settings, config, or preferences of your favorite IDE.
 
 ## Disclaimer
-In all seriousness, the MICDS Programming Club will use tabs as standard, but **it is more important to stay consistent throughout a whole project.** If you mix tabs and spaces, the code could be all scrambled up, and be unreadable.
+In all seriousness, the MICDS Programming Club will use tabs as standard, but **it is more important to stay consistent throughout a whole project.** If you mix tabs and spaces, the code could be all scrambled up, and be unreadable. 
 
 ## Other Resources
 - [https://en.wikipedia.org/wiki/Religious_war](https://en.wikipedia.org/wiki/Religious_war)
