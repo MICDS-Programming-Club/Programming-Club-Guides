@@ -1,3 +1,7 @@
+# What's a MOOC?
+
+a MOOC is a Massive Open Online Class. They are usually classes delivered in lecture format, online, and free. 
+
 ## [Udacity](https://www.udacity.com/)
 Bring accessible, affordable, engaging, and highly effective higher education to the world.
 
