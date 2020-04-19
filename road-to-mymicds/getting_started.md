@@ -14,8 +14,8 @@ Here's what you need to do in order for you to start working on the website:
   </ul>
   There are also IDEs that you can use directly in Git Bash if that's what you downloaded:
   <ul>
-  <li>Vim: An incredibly powerful terminal-based text editor, Vim is one of the oldest IDEs out there. You'll have to navigate entirely by keyboard (because it was invented before the mouse), and many of the controls are very unfamiliar. It takes some mastery, but once you get used to it, there's no going back. Open it by going into Git Bash and typing <pre>vim [file]</pre></li>
-  <li>Nano: Similar to Vim in most ways, but it looks a little nicer. Open it by going into Git Bash and typing <pre>nano [file]</pre></li>
+  <li>Vim: An incredibly powerful terminal-based text editor, Vim is one of the oldest IDEs out there. You'll have to navigate entirely by keyboard (because it was invented before the mouse), and many of the controls are very unfamiliar. It takes some mastery, but once you get used to it, there's no going back. Open it by going into Git Bash and typing <pre>$ vim [file]</pre></li>
+  <li>Nano: Similar to Vim in most ways, but it looks a little nicer. Open it by going into Git Bash and typing <pre>$ nano [file]</pre></li>
   </ul>
   (The [file] is the path of the file you want to open. You don't literally type "[file]")
   
