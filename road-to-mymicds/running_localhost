@@ -1,0 +1,24 @@
+Before you can commit any changes to MyMICDS.net, you'll probably want to see what you're doing first. The best way to do this is to install node, which will allow you to run the website on your computer's localhost.
+
+Once you've completed these steps, the development of the website is pretty simple, but this can get complicated if you're not used to commands, so follow closely.
+
+<h2>Installing NPM</h2>
+&nbsp;&nbsp;There are two repositories you need to clone: MyMICDS-v2, and MyMICDS-v2-Angular. The former is where we do most of the back-end stuff, and the latter is for front-end development. Once you have them cloned an in a convenient spot on your computer download Node.js from the Internet. This will download most of the software needed for the localhost to run the back-end code. It should come with an installer so you should run that and install the package. Once it's installed, open the command prompt as an administrator and navigate to your MyMICDS-v2 clone. If you want to move between folders in the command prompt, use the cd command. Let's assume you're in the users folder when the CMD starts (this is the default). If you logged in as an administrator to open the prompt (which you should have if your user account is not already an administrator), you'll have to navigate to your folders. For most devices it's <pre>$ cd ../sneumann</pre> I used my own account name for that example, but you should change that to whatever your account is.
+<br>
+&nbsp;&nbsp;Now let me explain what just happened there so you can navigate the rest of the way to the directory on your own. The first part of the line is the actual command, "cd", and the rest is the argument. "cd" stands for "change directory", and it's how you get to any folders in the command prompt. The argument is the directory you want to go to. The ".." stands for the folder above the current folder (i.e. "Users"), and the "/" means that the folder "sneumann" is in the folder "..". There's also ".", which means the current directory, but that isn't used here. If you want to see the contents of the folder you're in, type <pre>$ dir</pre>. This will display all files and subfolders in the current folder.
+<br>
+&nbsp;&nbsp;Now that you're in your clone of MyMICDS-v2, type <pre>$ npm install</pre>
+This adds the linter and a bunch of other useful stuff.
+<h2>Back-End Config File</h2>
+&nbsp;&nbsp;The next thing you should do is contact one of the senior developers for and ask them for some keys to the database. They should give you a few different pieces of info, which you'll understand in a minute. Once you have the info, navigate to `src/libs/` and look for a file called `config.example.js`. If it's there, type <pre>cp config.example.js config.js</pre>This will copy a config example file to config.js, which is now your personal copy. <b>DO NOT MAKE ANY EDITS TO config.example.js</b>. Edit config.js with the text editor of your choice, and paste in all the information you got from the senior devs into the correct slots. Save that, and let's move on the next step!
+<h2>Front-End Config File</h2>
+This is a similar step to the last one. The file this time is located at `/src/styles/_config.example.scss`. Just copy the file to the filename `_config.scss` and you're good to go
+
+<h2>Setting Up the Front End</h2>
+To set up the front end, run <pre>$ npm install -D</pre>
+
+<h2>Running the localhost</h2>
+Finally, we get to run the website! In a new window, navigate to MyMICDS-v2 and type <pre>$ node src/index.js</pre>Then, in your old window, type <pre>ng serve</pre>Assuming there are no errors, if you go into a web browser and type `localhost:4200`, you should see a copy of MyMICDS.net!
+
+<h2>Troubleshooting</h2>
+If you have any questions don't hesitate to ask one of the senior devs.
